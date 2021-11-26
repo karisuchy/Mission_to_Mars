@@ -11,8 +11,8 @@ For this project, I built an app that scrapes different websites for data pertai
 
 
 ## Resources
-- Data Sources: https://mars.nasa.gov/news, 
-- Software: Python 3.7, VS Studio Code 1.62.3, Jupyter 6.3.0, Matplotlib???, Pandas 1.2.4???, SQLite???, SQLAlchemy???, Flask Chrome Developer Tools, MongoDB, Flask, Bootstrap, Beautiful Soup, Spliter, Web_Driver Manager, 
+- Data Sources: NASA news https://mars.nasa.gov/news website; Jet Propulsion Laboratory's Space Images https://spaceimages-mars.com/ website
+- Software: Python 3.7, VS Studio Code 1.62.3, Jupyter 6.3.0, Matplotlib???, Pandas 1.2.4???, SQLite???, SQLAlchemy???, Flask Chrome Developer Tools, MongoDB, Flask, Bootstrap, Beautiful Soup, Spliter, Web_Driver Manager 
 
 
 ## Results
